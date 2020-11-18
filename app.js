@@ -9,7 +9,7 @@ const deadline = document.querySelector('.deadline');
 const items = document.querySelectorAll('.deadline-format h4')
 
 // console.log(items);
-const futureDate = new Date(2020,10,19, 12, 30 ,0) //End Time (Year, month, date, hour, minute, second) hour in 24hour format
+const futureDate = new Date(2030,10,19, 12, 30 ,0) //End Time (Year, month, date, hour, minute, second) hour in 24hour format
 
 // console.log(futureDate);
 
