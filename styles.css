@@ -1,0 +1,39 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.gift-info h1 {
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.gift-image {
+    width: 40vw;
+    padding: 10px;
+}
+
+.gift-info {
+    padding: 10px;
+}
+
+.section-center {
+    display: flex;
+    align-self: center;
+    width: 80vw;
+}
+
+.deadline div {
+    display: flex;
+}
+
+.deadline-format {
+    background: blueviolet;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin: 10px;
+    align-items: center;
+    height: 90px;
+    width: 90px;
+    font-weight: bold;
+}
